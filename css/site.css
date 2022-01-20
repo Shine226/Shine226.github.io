@@ -1,7 +1,11 @@
-.container{
-  font-family:	"Myriad Pro", "Gill Sans", "Gill Sans MT", "DejaVu Sans Condensed", Helvetica, Arial, sans-serif;
-  padding:25px;
-  }
+body {
+  -webkit-font-smoothing: antialiased;
+  background-color: #fff;
+  color: #333;
+  font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1em;
+  line-height:1.4
+}
 
 .wrap {
   max-width: 67.5em;
