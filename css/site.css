@@ -33,7 +33,7 @@ h2 {
   border-bottom:2px #DDD solid
 }
 
-.paper-list-block .paper-image-small {
+.paper-image-small {
   float: left;
   display: block;
   margin-right: 2.3576515979%;
@@ -50,6 +50,9 @@ h2 {
   border-radius:3px
 }
 
-.paper-list-block p.pubs {
-  margin:0 0 0 1.3em
+.paper-list-block {
+  float: left;
+  display: block;
+  width: 100%;
 }
+
