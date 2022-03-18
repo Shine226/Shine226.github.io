@@ -53,6 +53,10 @@ h2 {
 .paper-list-block {
   float: left;
   display: block;
+  margin-top: 5px;
   width: 100%;
 }
 
+.paper-list-block p.pubs {
+  margin:0 0 0 1.3em
+}
